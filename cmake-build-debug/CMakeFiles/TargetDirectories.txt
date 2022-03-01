@@ -1,0 +1,4 @@
+/home/szymon/Projects/CanSat/ground_base_qt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/szymon/Projects/CanSat/ground_base_qt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/szymon/Projects/CanSat/ground_base_qt/cmake-build-debug/CMakeFiles/ground_base_qt.dir
+/home/szymon/Projects/CanSat/ground_base_qt/cmake-build-debug/CMakeFiles/ground_base_qt_autogen.dir
